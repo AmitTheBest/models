@@ -17,6 +17,10 @@ and give you in exchange a data access library, that is:
  - Simple. Clear syntax and great flexibility.
  - PHP-style. Follows PHP-way and not copying other languages.
 
+## Stay in touch
+
+Follow this repository we will soon start working on migrating the code.
+
 ## Origins
 
 This project is based around Model implementation in Agile Toolkit. The first version of
