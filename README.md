@@ -1,13 +1,13 @@
 
-# Agile ORM
+# Agile Models
 
-Agile ORM is a Functional Object-Relational-Mapper. It's fast, simple and query-efficient.
+Agile Models is a [Functional Object-Relational-Mapper](https://github.com/atk4/dsql/wiki/Functional-ORM). It's fast, simple and query-efficient.
 
 Some developres claim that ORM is an anti-pattern that might be simple, but for any decent
 project it will become inefficient, non-scalable and inflexible limitation that you will have
 to hack around constantly to get any resemblence of performance.
 
-Agile ORM strives to fundamentally redesign the patterns that we use to access SQL
+Agile Models strives to fundamentally redesign the patterns that we use to access SQL
 and give you in exchange a data access library, that is:
 
  - Humble. Never uses more than one SQL query.
